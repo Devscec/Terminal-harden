@@ -1,0 +1,3 @@
+[ RKHUNTER SCAN - RESUMO ]
+/usr/bin/lwp-request                                     [ Warning ]
+Checking for suspicious (large) shared memory segments   [ Warning ]
