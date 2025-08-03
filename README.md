@@ -1,4 +1,8 @@
 # 🛡️ Projeto: Terminal Hardening com rkhunter e Lynis
+<p align="center">
+  <img src="img/banner.png" alt="Terminal Hardening Banner" width="600"/>
+</p>
+
 
 Projeto prático para análise e correção de vulnerabilidades no Linux via terminal.
 
